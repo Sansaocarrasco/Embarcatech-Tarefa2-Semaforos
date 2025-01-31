@@ -5,7 +5,7 @@
 #define YELLOW_LED_PIN 12
 #define GREEN_LED_PIN 13
 
-#define TIMER_DELAY_MS 3000
+#define TIMER_DELAY_MS 3000 //Delay de 3 segundos
 
 struct repeating_timer timer;
 volatile int led_state = 0;  // Estado atual do LED
