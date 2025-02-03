@@ -15,7 +15,7 @@ A tarefa requer os seguintes componentes conectados à placa **BitDogLab**:
 
 A configuração sugerida para a simulação no Wokwi é apresentada abaixo:
 
-![Simulação no Wokwi][(https://wokwi.com/projects/421636014432418817)]
+https://wokwi.com/projects/421636014432418817
 
 *Fonte: autor*
 
