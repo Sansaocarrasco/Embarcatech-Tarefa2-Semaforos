@@ -27,6 +27,18 @@ A configuração sugerida para a simulação no Wokwi é apresentada abaixo:
 4. A rotina principal, dentro da estrutura de repetição `while`, imprime uma mensagem a cada segundo (1.000 ms) via porta serial.
 5. Utilizando a Ferramenta Educacional BitDogLab, foi realizado um experimento com o código deste exercício utilizando o LED RGB nos GPIOs 11, 12 e 13.
 
+## 🚦 Instruções de Uso
+
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/Sansaocarrasco/Embarcatech-Tarefa2-Semaforos.git
+   
+2. Abra o projeto no VS Code.
+
+3. Conecte a placa Raspberry Pi Pico W ao computador no modo BOOTSEL (pressionando o botão BOOTSEL ao conectar via USB).
+
+4. Compile e carregue o projeto para a placa.
+
 ## 🎥 Vídeo Demonstrativo
 
 Um vídeo associado a esta prática pode ser acessado no link a seguir:
